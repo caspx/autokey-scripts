@@ -7,7 +7,7 @@ from os.path import join
 
 # very simple logger
 # def log(line):
-#     system.exec_command('echo "{}" >> /tmp/autokey.log'.format(line))
+#     system.exec_command(f'echo "{line}" >> /tmp/autokey.log')
 #
 
 # autokey data dir - You can set it manually
